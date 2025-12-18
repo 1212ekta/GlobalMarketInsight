@@ -1,23 +1,12 @@
 # Crypto Analyzer
 
-<<<<<<< HEAD
-**Crypto Analyzer** is a web-based platform that allows users to track, analyze, and visualize cryptocurrency data in real-time. It provides a simple and interactive interface for monitoring multiple crypto assets, viewing historical trends, and making informed decisions.
-=======
-Crypto Analyzer is a web-based platform that allows users to track, analyze, and visualize cryptocurrency data in real-time.  
+**Crypto Analyzer** is a web-based platform that allows users to track, analyze, and visualize cryptocurrency data in real time.  
 It provides a simple and interactive interface for monitoring multiple crypto assets, viewing historical trends, and making informed decisions.
->>>>>>> 563238ffe4f01f6ad828b921cca25e19a21b33a7
 
 ---
 
-## Features
+## 🚀 Features
 
-<<<<<<< HEAD
-- **Real-time Cryptocurrency Data:** Fetches the latest prices, market caps, and other statistics for a wide range of cryptocurrencies.
-- **Historical Data Visualization:** Interactive charts to track price trends over time.
-- **Portfolio Tracking:** Keep track of your cryptocurrency holdings and their performance.
-- **Search & Filter:** Easily find cryptocurrencies by name, symbol, or market cap.
-- **Dark/Light Mode (Optional):** User-friendly interface with theme toggle.
-=======
 - **Real-time Cryptocurrency Data**  
   Fetches the latest prices, market caps, and other statistics for a wide range of cryptocurrencies.
 
@@ -25,20 +14,19 @@ It provides a simple and interactive interface for monitoring multiple crypto as
   Interactive charts to track price trends over time.
 
 - **Portfolio Tracking**  
-  Keep track of your cryptocurrency holdings and their performance.
+  Monitor your cryptocurrency holdings and their performance.
 
 - **Search & Filter**  
-  Easily find cryptocurrencies by name, symbol, or market cap.
+  Easily find cryptocurrencies by name, symbol, or market capitalization.
 
 - **Dark/Light Mode (Optional)**  
   User-friendly interface with theme toggle.
->>>>>>> 563238ffe4f01f6ad828b921cca25e19a21b33a7
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
-<<<<<<< HEAD
+
 ```
 
 CRYPTO-ANALYZER/
@@ -73,13 +61,11 @@ CRYPTO-ANALYZER/
 ``
 
 
->>>>>>> 563238ffe4f01f6ad828b921cca25e19a21b33a7
 
 ---
 
 ## Installation
 
-<<<<<<< HEAD
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/manojk909/CRYPTO-ANALYZER.git
@@ -175,13 +161,13 @@ python app.py
 - Advanced analytics and prediction models  
 - Dark/Light mode toggle for enhanced UX
 ## Contributing
->>>>>>> 563238ffe4f01f6ad828b921cca25e19a21b33a7
+
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-name`).
 3. Make your changes.
 4. Commit and push (`git commit -m "Description"`).
 5. Open a pull request.
-<<<<<<< HEAD
+
 
 ---
 
@@ -192,17 +178,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## Contact
-
-**Manoj Kharkar**
-
-GitHub: [https://github.com/manojk909](https://github.com/manojk909)
-Email: [manojkharkar909@gmail.com](mailto:manojkharkar909@gmail.com)
-=======
-## License
-
-This project is licensed under the **MIT License**.
-## Contact
-
 For any questions or suggestions, feel free to open an issue or contact the project maintainer.
 ### Ekta kumari
 GitHub: https://github.com/1212ekta  
@@ -211,5 +186,3 @@ Email: ektasaw14@gmail.com
 
 
 
-
->>>>>>> 563238ffe4f01f6ad828b921cca25e19a21b33a7
