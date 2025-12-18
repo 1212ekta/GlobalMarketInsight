@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: crypto-pulse
+    env: python
+    buildCommand: |
+      export PATH="/opt/render/project/poetry/bin:$PATH"
+      pip install --upgrade pip
+      cd CryptoPulse
+      poetry install
+    startCommand: |
+      export PATH="/opt/render/project/poetry/bin:$PATH"
+      cd CryptoPulse
+      poetry run python main.py
