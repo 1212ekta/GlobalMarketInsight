@@ -68,7 +68,7 @@ CRYPTO-ANALYZER/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/manojk909/CRYPTO-ANALYZER.git
+   git clone https://github.com/1212ekta/CRYPTO-ANALYZER-main.git
    cd CRYPTO-ANALYZER
    ```
 
@@ -123,7 +123,7 @@ CRYPTO-ANALYZER/
 =======
 ### Clone the repository
 ```bash
-git clone https://github.com/1212ekta/CRYPTO-ANALYZER.git
+git clone https://github.com/1212ekta/CRYPTO-ANALYZER-main.git
 cd CRYPTO-ANALYZER
 ```
 ### Create a virtual environment
