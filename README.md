@@ -120,42 +120,6 @@ CRYPTO-ANALYZER/
 * Dark/light mode toggle for better UX
 
 ---
-
-## Contributing
-
-=======
-### Clone the repository
-```bash
-git clone https://github.com/1212ekta/CRYPTO-ANALYZER-main.git
-cd CRYPTO-ANALYZER
-```
-### Create a virtual environment
-```bash
-python -m venv venv
-```
-### Activate the virtual environment
-
-#### Linux / macOS
-```bash
-source venv/bin/activate
-```
-#### Windows
-```bash
-venv\Scripts\activate
-```
-#### Install dependencies
-```bash
-pip install -r requirements.txt
-```
-#### Run the application
-```bash
-python app.py
-```
-## 🔮 Future Enhancements
-- User authentication and secure portfolio management  
-- Real-time price alerts and notifications  
-- Advanced analytics and prediction models  
-- Dark/Light mode toggle for enhanced UX
 ## Contributing
 
 1. Fork the repository.
