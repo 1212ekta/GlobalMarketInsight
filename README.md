@@ -3,6 +3,9 @@
 **Crypto Analyzer** is a web-based platform that allows users to track, analyze, and visualize cryptocurrency data in real time.  
 It provides a simple and interactive interface for monitoring multiple crypto assets, viewing historical trends, and making informed decisions.
 
+🔗 **Live Application:**  
+👉 https://crypto-analyzer-4.onrender.com/
+
 ---
 
 ## 🚀 Features
@@ -148,13 +151,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-## 🛠 Technologies Used
-- **Backend:** Python, Flask  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Data Visualization:** Chart.js / Plotly (depending on implementation)  
-- **APIs:** Cryptocurrency market data APIs (e.g., CoinGecko, CoinMarketCap)  
-- **Deployment:** Render, Heroku, or any cloud platform
-
 ## 🔮 Future Enhancements
 - User authentication and secure portfolio management  
 - Real-time price alerts and notifications  
